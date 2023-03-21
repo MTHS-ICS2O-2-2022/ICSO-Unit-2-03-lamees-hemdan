@@ -14,14 +14,14 @@
 .mdl-layout__header-row {
   justify-content: center;
   padding: 0;
-  color: beige;
+  color: black;
 }
 
 .mdl-layout__content {
   padding-left: 30pt;
   padding-top: 20pt;
   padding-right: 20pt;
-  color: bisque;
+  color: teal;
 }
 
 .mdl-textfield__input {
@@ -31,7 +31,13 @@
 .page-content {
   color: black;
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 2 rem;
+  font-size: 10 rem;
+}
+
+.page-content-answer {
+  color: teal;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: large;
 }
 
 body {
@@ -40,8 +46,4 @@ body {
 
 img {
   float: right;
-}
-
-p {
-  color: black;
 }
