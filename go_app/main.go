@@ -8,13 +8,12 @@ package main
 import "fmt"
 
 func main() {
-	// This program show address 
-
+	
 	// variables
 	var streetName string
 	var streetNumber int
 	
-	//input
+	// input
 	fmt.Println("This Program gets street name and number")
 	fmt.Println()
 	fmt.Println("Enter street name:")
