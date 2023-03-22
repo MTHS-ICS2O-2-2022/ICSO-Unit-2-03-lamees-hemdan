@@ -5,10 +5,10 @@
 
 package main
 
-import "fmt"
+import ("fmt")
 
 func main() {
-	
+
 	// variables
 	var streetName string
 	var streetNumber int
