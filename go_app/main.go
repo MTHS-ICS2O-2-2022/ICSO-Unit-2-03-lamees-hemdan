@@ -12,7 +12,7 @@ func main() {
 	// variables
 	var streetName string
 	var streetNumber int
-	
+
 	// input
 	fmt.Println("This Program gets street name and number")
 	fmt.Println()
